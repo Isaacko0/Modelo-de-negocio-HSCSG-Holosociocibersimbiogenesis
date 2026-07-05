@@ -31,6 +31,11 @@ El Paradigma Extractivo                       El Punto de Bifurcación (HSCSG)
 └──────────────────────────┘                  └─────────────────────────────────────────┘
 
 
+## 🚀 La Propuesta Civilizatoria: ¿Qué es HSCSG?
+
+**Holosociocibersimbiogénesis (HSCSG)** es una arquitectura de transición hacia un ecosistema post-mercado, post-dependencia y post-centralización. No es una utopía literaria; es un marco informacional, técnico y territorial ejecutable.
+
+
 ### El Objetivo Civilizatorio Último:
 > Que cualquier colectivo humano, en cualquier territorio, pueda desplegar **autosuficiencia operativa** en sus dominios críticos (alimentación, energía, salud, gobernanza, conocimiento, producción, comunicación, hábitat y finanzas) en un plazo máximo de **7 generaciones**, sin depender de actores externos a su propio ecosistema.
 
