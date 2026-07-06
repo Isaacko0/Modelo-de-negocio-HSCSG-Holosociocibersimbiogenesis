@@ -99,7 +99,7 @@ Cualquier agente inteligente derivado o conectado a este repositorio está atado
 
 ## 🗺️ El Funnel de la Transición (Hoja de Ruta)
 
-```mermaid
+
 flowchart LR
     A[Etapa 0: Experiencia Demo] --> B[Etapa 1: Diagnóstico CAC]
     B --> C[Etapa 2: Auditoría Territorial]
